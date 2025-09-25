@@ -94,5 +94,4 @@ By the end of this project:
 - Routing is configured with **correct static and dynamic policies**.  
 
 ---
-
-✨ Pretty neat, right? A metro that carries *people and packets*.  
+ 
